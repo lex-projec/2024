@@ -1,0 +1,56 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\mssg.me\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\mssg.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\mssg.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuGKYMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\mssg.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\mssg.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\mssg.me\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg-1.ttf
+Content Type: font/ttf
+
+Uri: https://media.mssg.me/thumbnails/icon_16/w/6633e85b0a05c100119c54d2/websites/6650c0d49fa49c00265df94b/FoxyProxyLogo_1716568690754.png
+File Name: C:\Downloaded Web Sites\mssg.me\thumbnails\icon_16\w\6633e85b0a05c100119c54d2\websites\6650c0d49fa49c00265df94b\FoxyProxyLogo_1716568690754.png
+Content Type: image/png
+
+Uri: https://media.mssg.me/thumbnails/icon_192/w/6633e85b0a05c100119c54d2/websites/6650c0d49fa49c00265df94b/FoxyProxyLogo_1716568690754.png
+File Name: C:\Downloaded Web Sites\mssg.me\thumbnails\icon_192\w\6633e85b0a05c100119c54d2\websites\6650c0d49fa49c00265df94b\FoxyProxyLogo_1716568690754.png
+Content Type: image/png
+
+Uri: https://media.mssg.me/thumbnails/icon_32/w/6633e85b0a05c100119c54d2/websites/6650c0d49fa49c00265df94b/FoxyProxyLogo_1716568690754.png
+File Name: C:\Downloaded Web Sites\mssg.me\thumbnails\icon_32\w\6633e85b0a05c100119c54d2\websites\6650c0d49fa49c00265df94b\FoxyProxyLogo_1716568690754.png
+Content Type: image/png
+
+Uri: https://mssg.me/2v0bs
+File Name: C:\Downloaded Web Sites\mssg.me\2v0bs.html
+Content Type: text/html
+
+Uri: https://s.mssg.me/v5.22.3/userwebsite/dist/1.f58fb5cd2f44b0d3ee62.js
+File Name: C:\Downloaded Web Sites\mssg.me\v5.22.3\userwebsite\dist\1.f58fb5cd2f44b0d3ee62-1.js
+Content Type: application/javascript
+
+Uri: https://s.mssg.me/v5.22.3/userwebsite/dist/4.e0ac6551bf9e53a76373.js
+File Name: C:\Downloaded Web Sites\mssg.me\v5.22.3\userwebsite\dist\4.e0ac6551bf9e53a76373-1.js
+Content Type: application/javascript
+
+Uri: https://s.mssg.me/v5.22.3/userwebsite/dist/userwebsite.0b8a7df8b27a66a265e1.js
+File Name: C:\Downloaded Web Sites\mssg.me\v5.22.3\userwebsite\dist\userwebsite.0b8a7df8b27a66a265e1-1.js
+Content Type: application/javascript
+
+Uri: https://s.mssg.me/v5.22.3/userwebsite/dist/userwebsite.a480b66eb8bea9182a65.css
+File Name: C:\Downloaded Web Sites\mssg.me\v5.22.3\userwebsite\dist\userwebsite.a480b66eb8bea9182a65-1.css
+Content Type: text/css
+
